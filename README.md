@@ -36,6 +36,11 @@ cd ai-secured-coding-platform
 npm install
 npm start
 ```
+## Use Cases
+Coding interviews & hiring assessments
+Online exams & certifications
+University coding tests
+Competitive programming platforms
 
 ## License
 All Rights Reserved © 2026 Aashritha Ganta 
